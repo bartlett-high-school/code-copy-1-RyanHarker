@@ -32,4 +32,4 @@
   </tr>
 </table>
 
-<p>Note: If you turn nothing at all in, you will earn a 0 (zero) for the assignment. If you turn in any part of the assignemnt, you will earn a 17/25 (which is a LOT better than a zero).</p>
+<p>Note: If you turn in nothing at all, you will earn a 0 (zero) for the assignment. If you turn in any part of the assignemnt, you will earn a 17/25 (which is a LOT better than a zero).</p>
