@@ -1,9 +1,9 @@
 <h1>Code Copy #1</h1>
 
 <h2>Objective</h2>
-Improve HTML and CSS skills by copying well-known designs, in tidbits. These copies are for educational purposes only.
+<p>Improve HTML and CSS skills by copying well-known designs, in tidbits. These copies are for educational purposes only.</p>
 
-<h3>Directions</h3>
+<h2>Directions</h2>
 <ol>
   <li>Download this repository.</li>
   <li>Open the image named 'code-copy-1.png' and study it closely. You will be attempting to make an exact replica of this design, replacing the image with one of your choosing.</li>
