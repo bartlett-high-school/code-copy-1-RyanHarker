@@ -1,4 +1,4 @@
-<h1>Code Copy #1 | 25 Points</h1>
+<h1>Code Copy #1 | 25 Points | Due Friday, January 6, 2017</h1>
 
 <h2>Objective</h2>
 <p>Refresh HTML and CSS skills by copying a simple, well-known design, an Instagram post. These copies are for educational purposes only and you may not tell anyone you designed Instagram.</p>
