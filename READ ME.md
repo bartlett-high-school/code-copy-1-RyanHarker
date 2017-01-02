@@ -9,7 +9,7 @@
   <li>Visit <a href="http://www.unsplash.com" target="_blank">unsplash.com</a> and choose a photo you would like to use as your instagram photo. Download it and rename it to something simple (lowercase, no spaces).</li>
   <li>Open the image named 'code-copy-1.png' and study it closely. You will be attempting to make an exact replica of this design, replacing the image with one of your choosing.</li>
   <li>Open the file named 'index.html' from this repository. For this Code Copy, you may write your CSS in a <code>style</code> tag within the <code>head</code> tag.</li>
-  <li>Recreate the design you see in 'code-copy-1.png' using only HTML and CSS. Upload your files to your github repository when you are finished. You MAY NOT directly copy and paste code from Instagram's website. The point of this exercise is to practice your skills.</li>
+  <li>Recreate the design you see in 'code-copy-1.png' using only HTML and CSS. Upload your files to this github repository when you are finished. You MAY NOT directly copy and paste code from Instagram's website. The point of this exercise is to practice your skills.</li>
 </ol>
 
 <h2>Rubric</h2>
